@@ -1,0 +1,29 @@
+Bash script that creates an IPv6 ad-hoc network.
+
+Instructions:
+
+	Download the script.
+	Give it execute permission:
+		#chmod +x ipv6Adhoc.sh
+	Execute it with root permission
+		#./ipv6Adhoc.sh
+
+Notes: 
+	Run the script on each computer that you want to connect.
+	It's necesary that you use the same information on each computer, just change the IPv6 address.
+
+
+
+
+Copyright 2012 Gualberto Escalante
+
+License:
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+    	the Free Software Foundation, either version 3 of the License, or
+    	(at your option) any later version.
+
+    	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+    	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    	GNU General Public License for more details.
