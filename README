@@ -10,9 +10,8 @@ Instructions:
 
 Notes: 
 	Run the script on each computer that you want to connect.
-	It's necesary that you use the same information on each computer, just change the IPv6 address.
-
-
+	It's necesary that you use the same information on each computer, 
+	but, use different IPv6 address.
 
 
 Copyright 2012 Gualberto Escalante
@@ -27,3 +26,6 @@ License:
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
     	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+    	along with this program.  If not, see <http://www.gnu.org/licenses/>.
